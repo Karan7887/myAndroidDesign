@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+
+    <string-array name="Batch">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+
+    </string-array>
+    <string-array name="Category">
+        <item>Sports</item>
+        <item>Poor Students</item>
+        <item>SC/ST</item>
+        <item>OBC</item>
+        <item>Sikh Minority</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="Department">
+        <item>Computer Engineering and technology</item>
+        <item>ECE</item>
+        <item>ARCHITECTURE</item>
+        <item>LAW</item>
+        <item>FOOD SCIENCE AND TECHNOLOGY</item>
+        <item>Others</item>
+    </string-array>
+    <string name="search">Search</string>
+
+    
+
+</resources>
